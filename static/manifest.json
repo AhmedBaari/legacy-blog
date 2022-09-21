@@ -3,7 +3,7 @@
     "name": "The Baari Blog",
     "icons": [
       {
-        "src": "/images/favicon.png",
+        "src": "/favicon.png",
         "type": "image/png",
         "sizes": "500x500"
       }
