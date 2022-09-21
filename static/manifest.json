@@ -1,0 +1,19 @@
+{
+    "short_name": "BAARI://",
+    "name": "The Baari Blog",
+    "icons": [
+      {
+        "src": "/images/favicon.png",
+        "type": "image/png",
+        "sizes": "500x500"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#BA274A",
+    "display_override": ["standalone", "minimal-ui"],
+    "scope": "/",
+    "theme_color": "#BA274A",
+    "shortcuts": [],
+    "description": "A collection of interesting stories that Baari and his friends write for fun",
+    "screenshots": []
+  }
