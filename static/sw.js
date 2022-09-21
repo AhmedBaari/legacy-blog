@@ -1,23 +1,23 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/scss/style.min.caadbf414fc1c73db119a3c0b8c2363b40e7fa64c83492e3f1ea0916547a2ee8.css',
-    '/ts/main.js',
+    '/css/style.min.d588972395e81d3f78675b117707cdaf2bd1fc43dab9aea2f6e3090947f75263.css',
+    'js/bundle.min.5993fcb11c07dea925a3fbd58c03c7f1857197c35fccce3aa963a12c0b3c9960.js',
     '/manifest.json',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    '/scss/style.min.caadbf414fc1c73db119a3c0b8c2363b40e7fa64c83492e3f1ea0916547a2ee8.css',
-    '/ts/main.js',
+    '/css/style.min.d588972395e81d3f78675b117707cdaf2bd1fc43dab9aea2f6e3090947f75263.css',
+    'js/bundle.min.5993fcb11c07dea925a3fbd58c03c7f1857197c35fccce3aa963a12c0b3c9960.js',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/scss/style.min.caadbf414fc1c73db119a3c0b8c2363b40e7fa64c83492e3f1ea0916547a2ee8.css',
-    '/ts/main.js',
+    '/css/style.min.d588972395e81d3f78675b117707cdaf2bd1fc43dab9aea2f6e3090947f75263.css',
+    'js/bundle.min.5993fcb11c07dea925a3fbd58c03c7f1857197c35fccce3aa963a12c0b3c9960.js',
 ];
 
 const OFFLINE_PAGE = '/index.html';
-const NOT_FOUND_PAGE = '/404.html';
+const NOT_FOUND_PAGE = '/index.html';
 
 const CACHE_VERSIONS = {
     assets: 'assets-v' + CACHE_VERSION,
