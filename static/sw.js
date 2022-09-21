@@ -1,19 +1,19 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/css/style.min.d588972395e81d3f78675b117707cdaf2bd1fc43dab9aea2f6e3090947f75263.css',
-    'js/bundle.min.5993fcb11c07dea925a3fbd58c03c7f1857197c35fccce3aa963a12c0b3c9960.js',
+    '/css/style.min.8edfab1807f75edadc8b4647928341071e28cb7f333baba9247fc18e4563dab0.css',
+    'js/bundle.min.575671c6da23c3563d465f9cfa3d2857fc0239531a2e8ea1fb6812017653b4d7.js',
     '/manifest.json',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    '/css/style.min.d588972395e81d3f78675b117707cdaf2bd1fc43dab9aea2f6e3090947f75263.css',
-    'js/bundle.min.5993fcb11c07dea925a3fbd58c03c7f1857197c35fccce3aa963a12c0b3c9960.js',
+    '/css/style.min.8edfab1807f75edadc8b4647928341071e28cb7f333baba9247fc18e4563dab0.css',
+    'js/bundle.min.575671c6da23c3563d465f9cfa3d2857fc0239531a2e8ea1fb6812017653b4d7.js',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/css/style.min.d588972395e81d3f78675b117707cdaf2bd1fc43dab9aea2f6e3090947f75263.css',
-    'js/bundle.min.5993fcb11c07dea925a3fbd58c03c7f1857197c35fccce3aa963a12c0b3c9960.js',
+    '/css/style.min.8edfab1807f75edadc8b4647928341071e28cb7f333baba9247fc18e4563dab0.css',
+    'js/bundle.min.575671c6da23c3563d465f9cfa3d2857fc0239531a2e8ea1fb6812017653b4d7.js',
 ];
 
 const OFFLINE_PAGE = '/index.html';
