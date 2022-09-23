@@ -16,8 +16,8 @@ pygmentsUseClasses = true
 [params]
   google_analytics_id = "G-3TNHHZJ1W8"
   twitter_handle = ""
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = true
   showPostsOnHomepage = false
   addDot = true
   addFrame = true

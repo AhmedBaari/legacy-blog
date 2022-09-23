@@ -2,10 +2,10 @@
   --font-family-heading: 'Poppins', sans-serif;
   --font-family-paragraph: Helvetica, sans-serif;
   --font-family-monospace: monospace;
-  --base-color: #ebecf5;
+  --base-color: #ffffff;
   --base-offset-color: #eaeaea;
   --highlight-color: #BA274A;
-  --heading-color: #000000;
+  --heading-color: #1c1b1d;
   --text-color: #4e5157; }
 
 body, html {
@@ -295,6 +295,9 @@ ul {
         font-size: 52px;
         line-height: 58px; } }
   .summary .summary-description {
+    width: 80%; }
+  .summary .summary-image {
+    object-fit: cover;
     width: 80%; }
 
 .author {
